@@ -7,4 +7,8 @@
 # All rights reserved - Do Not Redistribute
 #
 
+rightscale_marker :begin
+
 log "Hello y'all...Chef on RightScale is awesome!"
+
+rightscale_marker :end
